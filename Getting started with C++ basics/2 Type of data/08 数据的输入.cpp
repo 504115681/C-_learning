@@ -4,35 +4,35 @@ using namespace std;
 
 int main()
 {
-	//1¡¢ÕûĞÍ
+	//1ã€æ•´å‹
 	int a = 0;
-	cout << "Çë¸øÕûĞÍ±äÁ¿a¸³Öµ: " << endl;
+	cout << "è¯·ç»™æ•´å‹å˜é‡aèµ‹å€¼: " << endl;
 	cin >> a;
-	cout <<"ÕûĞÍ±äÁ¿a = "<< a << endl;
+	cout <<"æ•´å‹å˜é‡a = "<< a << endl;
 
-	//2¡¢¸¡µãĞÍ
+	//2ã€æµ®ç‚¹å‹
 	float f = 3.14f;
-	cout << "Çë¸ø¸¡µãĞÍ±äÁ¿f¸³Öµ: " << endl;
+	cout << "è¯·ç»™æµ®ç‚¹å‹å˜é‡fèµ‹å€¼: " << endl;
 	cin >> f;
-	cout << "¸¡µãĞÍ±äÁ¿f = " << f << endl;
+	cout << "æµ®ç‚¹å‹å˜é‡f = " << f << endl;
 
-	//3¡¢×Ö·ûĞÍ
+	//3ã€å­—ç¬¦å‹
 	char ch = 'a';
-	cout << "Çë¸ø×Ö·ûĞÍ±äÁ¿f¸³Öµ: " << endl;
+	cout << "è¯·ç»™å­—ç¬¦å‹å˜é‡chèµ‹å€¼: " << endl;
 	cin >> ch;
-	cout << "×Ö·ûĞÍ±äÁ¿ch = " << ch << endl;
+	cout << "å­—ç¬¦å‹å˜é‡ch = " << ch << endl;
 
-	//4¡¢×Ö·û´®ĞÍ
+	//4ã€å­—ç¬¦ä¸²å‹
 	string str = "hello";
-	cout << "Çë¸ø×Ö·û´®ĞÍ±äÁ¿str¸³Öµ: " << endl;
+	cout << "è¯·ç»™å­—ç¬¦ä¸²å‹å˜é‡strèµ‹å€¼: " << endl;
 	cin >> str;
-	cout << "×Ö·û´®ĞÍ±äÁ¿str = " << str << endl;
+	cout << "å­—ç¬¦ä¸²å‹å˜é‡str = " << str << endl;
 
-	//5¡¢²¼¶ûÀàĞÍ
+	//5ã€å¸ƒå°”ç±»å‹
 	bool flag = false;
-	cout << "Çë¸ø²¼¶ûÀàĞÍ±äÁ¿flag¸³Öµ: " <<flag << endl;
+	cout << "è¯·ç»™å¸ƒå°”ç±»å‹å˜é‡flagèµ‹å€¼: " <<flag << endl;
 	cin >> flag;
-	cout << "²¼¶ûÀàĞÍ±äÁ¿flag = " << flag << endl;
+	cout << "å¸ƒå°”ç±»å‹å˜é‡flag = " << flag << endl;
 
 	system("pause");
 
