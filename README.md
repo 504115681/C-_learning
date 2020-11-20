@@ -1,2 +1,2 @@
 # cpp_learning
-Learning C++ for the first time
+记录学习C++的过程
